@@ -1,0 +1,21 @@
+---
+title: "BpS Transitions Paper Brief"
+author: "BS et al"
+date: "January 9, 2019"
+output: html_document
+---
+
+##Goals:
+* Illuminate the sheer quantity and power of the BpS model data
+* Highlight methods
+* Showcase distrubance ecology *for the nation*
+* Develop and practice relevant R code; deliver if appropriate
+* Set up data for delivery and accompanying Shiny app (which could be delivery mechanism)
+* Make beautiful graphs and maps
+
+##Figure brainstorm:
+* Choropleth of dist by map zone (map per disturbance type)
+* Pirate plots with each "bar" representing broadest veg classes (e.g. grassland), each plot disturbance type, each bean a BpS
+* New Fire Severity and/or MFRI maps?
+* Percent FRG graph
+* Basic chart of area disturbed by disturbance type per year
