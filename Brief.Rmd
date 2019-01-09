@@ -12,6 +12,7 @@ output: html_document
 * Develop and practice relevant R code; deliver if appropriate
 * Set up data for delivery and accompanying Shiny app (which could be delivery mechanism)
 * Make beautiful graphs and maps
+* play in GitHub
 
 ##Figure brainstorm:
 * Choropleth of dist by map zone (map per disturbance type)
